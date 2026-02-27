@@ -1,1 +1,1 @@
-Print("Hello-deployed via pipeline")
+print("Hello CI/CD demo")
